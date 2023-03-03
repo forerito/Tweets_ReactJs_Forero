@@ -1,0 +1,22 @@
+.object{
+  background-color: beige;
+  border-radius: 5px;
+  align-items: center;
+  text-align: center;
+  width: 20rem;
+  height: 15rem;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.paragraph{
+  align-items: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+input{
+  border-radius: 6px;
+  background-color: rgb(0, 81, 255);
+}

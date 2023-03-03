@@ -1,0 +1,25 @@
+.container-state{
+  margin: auto;
+  margin-top: 60px;
+  background-color: rgb(106, 113, 111);
+  width: 20rem;
+  height: 21rem;
+  border-radius: 5px;
+} 
+ 
+ 
+ h2{
+  font-size: 50px;
+ }
+ 
+.container-buttons button{
+ display: block;
+ margin: auto;
+ padding: 10px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ width: 100px;
+ font-size: 30px;
+ cursor: pointer;
+ border-radius: 5px;
+}

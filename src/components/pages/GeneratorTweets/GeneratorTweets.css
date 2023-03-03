@@ -1,0 +1,88 @@
+.container-tweet {
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  background-color: aquamarine;
+  width: 25rem;
+  height: auto;
+  border-radius: 5px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 30px;
+}
+
+.textarea{
+  margin-top: 20px;
+  width: 18rem;
+  height: 8rem;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 13px;
+}
+
+.counter{
+  display: block;
+  padding: 10px;
+  margin-left: 15rem;
+}
+
+hr {
+  width: 250px;
+  margin: auto;
+}
+
+.buttons button {
+  padding: 5px;
+  display: inline-block;
+  margin: 10px;
+  width: 10rem;
+  height: 3rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.container-answer{
+  display: block;
+  margin: auto;
+  width: 25rem;
+  font-size: 15px;
+}
+
+.container-archive-tweets{
+  display: block;
+  margin: auto;
+  width: 27rem;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  border-radius: 5px;
+  background-color: aquamarine;
+  padding: 5px;
+}
+
+.container-archive-tweets li{
+  color: #fff;
+  padding: 5px;
+  display: block;
+  margin: 10px;
+  background-color: rgb(0, 81, 255);
+  border-radius: 5px;
+}
+
+.buttons button:hover{
+  background-color: aqua;
+}
